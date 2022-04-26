@@ -1,6 +1,6 @@
 # hello-world
 hello world
-inclide <iostream>
+include <iostream>
   using namespace std;
   int main
   {
